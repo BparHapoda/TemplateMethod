@@ -24,7 +24,7 @@ System.out.println(footer);
 
        }
 public String info (){
-    String info ="News Info";
+    String info ="News Info" ;
   return   info;
 }
     }
